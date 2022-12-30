@@ -16,6 +16,7 @@
 		81BB3C99295F06A700CB3DC1 /* GetMethodTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BB3C98295F06A700CB3DC1 /* GetMethodTests.swift */; };
 		81BB3CA3295F06A700CB3DC1 /* GetMethodUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BB3CA2295F06A700CB3DC1 /* GetMethodUITests.swift */; };
 		81BB3CA5295F06A700CB3DC1 /* GetMethodUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BB3CA4295F06A700CB3DC1 /* GetMethodUITestsLaunchTests.swift */; };
+		81BB3CB2295F0F0700CB3DC1 /* ApiTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81BB3CB1295F0F0700CB3DC1 /* ApiTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		81BB3C9E295F06A700CB3DC1 /* GetMethodUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GetMethodUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		81BB3CA2295F06A700CB3DC1 /* GetMethodUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetMethodUITests.swift; sourceTree = "<group>"; };
 		81BB3CA4295F06A700CB3DC1 /* GetMethodUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetMethodUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		81BB3CB1295F0F0700CB3DC1 /* ApiTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				81BB3C83295F06A300CB3DC1 /* SceneDelegate.swift */,
 				81BB3C85295F06A300CB3DC1 /* ViewController.swift */,
 				81BB3C87295F06A300CB3DC1 /* Main.storyboard */,
+				81BB3CB1295F0F0700CB3DC1 /* ApiTableViewCell.swift */,
 				81BB3C8A295F06A700CB3DC1 /* Assets.xcassets */,
 				81BB3C8C295F06A700CB3DC1 /* LaunchScreen.storyboard */,
 				81BB3C8F295F06A700CB3DC1 /* Info.plist */,
@@ -260,6 +263,7 @@
 			files = (
 				81BB3C86295F06A300CB3DC1 /* ViewController.swift in Sources */,
 				81BB3C82295F06A300CB3DC1 /* AppDelegate.swift in Sources */,
+				81BB3CB2295F0F0700CB3DC1 /* ApiTableViewCell.swift in Sources */,
 				81BB3C84295F06A300CB3DC1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
